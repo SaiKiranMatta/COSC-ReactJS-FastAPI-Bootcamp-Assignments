@@ -12,6 +12,7 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 <summary><h2>Tasks</h2></summary>
 <br>
 <ul>
+<li>Copy index.html file and make the following changes.</li>
 <li><h3>1. Add Roll Number:</h3> Display a hardcoded Roll Number on the form.</li>
 <li><h3>2. Add Additional Fields:</h3> Enhance the form by adding the following input fields:
 
