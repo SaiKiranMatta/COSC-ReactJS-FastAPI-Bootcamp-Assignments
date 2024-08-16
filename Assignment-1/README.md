@@ -24,10 +24,9 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 
 </li>
 <li><h3>3. Change Input Label Styling: </h3>The labels for the input fields are currently displayed in black. Modify the styling so that all input labels are displayed in white color and are bolded.</li>
-
 <li><h3>4. Display Form Values on Submission: </h3>On form submission, display all the values entered by the user (Name, Email, Phone, Address, Pincode) in the form of an alert box. This will allow you to verify that all input fields are working correctly and that the data is being captured as expected.</li>
 </ul>
-</details
+</details>
 
 <details>
 <summary><h2>Submission</h2></summary>
@@ -38,6 +37,7 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 <li><h3>2. Submit Completed Code:</h3> Go to <a href="https://drive.google.com/drive/folders/13ZtaSoDDzGheYV5kjzrZADt5QJ_6bP_w?usp=drive_link">this link</a> and upload your code and output screenshot to the folder named after your roll number.</li>
 
 <li><h3>3. Finish The Task:</h3> Fill <a href="https://forms.gle/A6tJ7J1RpBrA7WQA8">this Google Form</a> to finish the task.</li>
+
 </ul>
 </details>
 
