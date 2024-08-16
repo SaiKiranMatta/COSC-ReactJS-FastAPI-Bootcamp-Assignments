@@ -28,7 +28,7 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 <li><h3>4. Display Form Values on Submission: </h3>On form submission, display all the values entered by the user (Name, Email, Phone, Address, Pincode) in the form of an alert box. This will allow you to verify that all input fields are working correctly and that the data is being captured as expected.</li>
 </ul>
 </details>
-<hr>
+
 <details>
 <summary><h2>Expected outputs</h2></summary>
 <p align="center">
@@ -37,7 +37,7 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 </p>
 
 </details>
-<hr>
+
 <details>
 <summary><h2>Submission Process</h2></summary>
 <br>
