@@ -24,9 +24,9 @@ In this assignment, you'll be working on enhancing a basic form that collects us
 ## Submission
 
 -   Ensure that your form is functional and visually appealing. Test the form thoroughly to make sure that all fields are capturing data correctly and that the alert box displays all the information accurately upon submission.
--   **Get Initial Code**: [Click here](#) to access the initial partial code that you will start with.
--   **Submit Completed Code**: [Click here](#) to submit your completed code.
--   **Finish The Task**: [Click here](#) to finish the task by filling the Google Form.
+-   Create a folder named with your roll number. Place your completed code and a screenshot of your output in that folder.
+-   **Submit Completed Code**: Go to [this link](https://drive.google.com/drive/folders/13ZtaSoDDzGheYV5kjzrZADt5QJ_6bP_w?usp=drive_link) and upload your folder.
+-   **Finish The Task**: Fill [this Google Form](https://forms.gle/A6tJ7J1RpBrA7WQA8) to finish the task.
 
 ## Deadline
 
