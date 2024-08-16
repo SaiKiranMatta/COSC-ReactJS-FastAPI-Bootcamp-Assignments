@@ -8,6 +8,8 @@ In this assignment, you'll be working on enhancing a basic form that collects us
 
 Enhance your understanding of HTML, CSS, and JavaScript by building and styling forms, handling user inputs, and managing form submissions. Apply core HTML elements, CSS styling techniques, and JavaScript functionalities to create an interactive web form.
 
+<hr style="border: 0; border-top: 1px solid #ccc;" />
+
 <details open>
 <summary><h2>Tasks</h2></summary>
 <br>
