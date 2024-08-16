@@ -8,7 +8,7 @@ In this assignment, you'll be working on enhancing a basic form that collects us
 
 Enhance your understanding of HTML, CSS, and JavaScript by building and styling forms, handling user inputs, and managing form submissions. Apply core HTML elements, CSS styling techniques, and JavaScript functionalities to create an interactive web form.
 
-<details>
+<details open>
 <summary><h2>Tasks</h2></summary>
 <br>
 <ul>
@@ -29,7 +29,16 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 </details>
 
 <details>
-<summary><h2>Submission</h2></summary>
+<summary><h2>Expected outputs</h2></summary>
+<p align="center">
+  <img src="./assignment1-output1.png" alt="Image 1" width="45%" />
+  <img src="./assignment1-output2.png" alt="Image 2" width="45%" />
+</p>
+
+</details>
+
+<details>
+<summary><h2>Submission Process</h2></summary>
 <br>
 <ul>
 <li><h3>1. Test Your Form:</h3> Ensure that your form is functional and visually appealing. Test the form thoroughly to make sure that all fields are capturing data correctly and that the alert box displays all the information accurately upon submission.</li>
