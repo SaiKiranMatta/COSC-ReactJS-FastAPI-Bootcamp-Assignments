@@ -83,7 +83,6 @@
     align-items: center;
     justify-content: center;
     padding: 30px 30px;
-    width: 40%;
     background: #ffffff11;
     border-radius: 30px;
 }
@@ -184,4 +183,9 @@ select:focus {
     border-radius: 10px;
     background-color: rgb(147, 67, 233);
     color: #ffff;
+}
+
+.input-section,
+.output-section {
+    width: 100%;
 }
