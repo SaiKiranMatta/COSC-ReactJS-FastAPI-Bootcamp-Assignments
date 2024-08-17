@@ -4,7 +4,7 @@
     background-image: url(./assets/bbblurry.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 92vh;
+    min-height: 90vh;
 }
 
 .home {
@@ -26,7 +26,7 @@
 /* Navbar styles */
 .navbar {
     color: #fff;
-    height: 8vh;
+    height: 10vh;
     text-align: center;
     display: flex;
     align-items: center;

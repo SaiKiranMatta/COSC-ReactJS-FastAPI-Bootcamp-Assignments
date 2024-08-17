@@ -7,7 +7,7 @@ const TemperatureConverter = () => {
     const [outputUnit, setOutputUnit] = useState("Fahrenheit");
     const [outputTemp, setOutputTemp] = useState("");
 
-    // TASK 4.2: Compute the convertedTemp for all the below cases
+    // TASK 4.2: Compute the convertedTemp for all the below cases.
     const convertTemperature = () => {
         let temp = parseFloat(inputTemp);
         if (isNaN(temp)) {
@@ -30,7 +30,7 @@ const TemperatureConverter = () => {
     };
 
     useEffect(() => {
-        // TASK 4.4: Update the converted temperature whenever inputTemp or inputUnit or outputUnit changes.
+        // TASK 4.5: Update the converted temperature automatically whenever inputTemp or inputUnit or outputUnit changes.
     }, []);
 
     return (
@@ -62,7 +62,7 @@ const TemperatureConverter = () => {
                         placeholder="Converted temperature"
                     />
                 </div>
-                {/* TASK 4.3: Add a prop to TempConvertButton component to display the outputUnit */}
+                {/* TASK 4.4: Pass outputUnit as a prop to TempConvertButton */}
                 <TempConvertButton convertTemperature={convertTemperature} />
             </div>
         </div>

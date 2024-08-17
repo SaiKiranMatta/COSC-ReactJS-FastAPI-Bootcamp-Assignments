@@ -1,31 +1,52 @@
-# Assignment 1: Form Enhancement
+# Assignment 2:
 
 ## Overview
 
-In this assignment, you'll be working on enhancing a basic form that collects user information. The form currently consists of fields for the user's name. Your task is to expand its functionality and improve its visual design. Below are the specific tasks you need to complete.
-
 ## Objectives
-
-Enhance your understanding of HTML, CSS, and JavaScript by building and styling forms, handling user inputs, and managing form submissions. Apply core HTML elements, CSS styling techniques, and JavaScript functionalities to create an interactive web form.
 
 <details open>
 <summary><h2>Tasks</h2></summary>
 <br>
+
 <ul>
-<li>Copy the index.html file and make the changes mentioned below. Note that all modifications must be done using only HTML, CSS, and JavaScript, and should be contained within the same file.</li>
-<li><h3>1. Add Roll Number:</h3> Display a hardcoded Roll Number on the form.</li>
-<li><h3>2. Add Additional Fields:</h3> Enhance the form by adding the following input fields:
+<li><h3>Repository Setup:</h3>
 
--   **Email**: A field to collect the user's email address.
--   **Phone**: A field to collect the user's phone number.
--   **Address**: A multi-line text area to collect the user's address.
--   **Pincode**: A field to collect the user's pincode.
+-   Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
+-   Once the repository is downloaded or cloned, execute the following command to install the dependencies:
 
-    Ensure that these fields are appropriately labeled and aligned with the existing design.
+```
+npm install
+```
+
+-   Subsequently, start the development server using the command:
+
+```
+npm run dev
+```
 
 </li>
-<li><h3>3. Change Input Label Styling: </h3>The labels for the input fields are currently displayed in black. Modify the styling so that all input labels are displayed in white color and are bolded.</li>
-<li><h3>4. Display Form Values on Submission: </h3>On form submission, display all the values entered by the user (Name, Email, Phone, Address, Pincode) in the form of an alert box. This will allow you to verify that all input fields are working correctly and that the data is being captured as expected.</li>
+<li><h3>1. Add Roll Number:</h3> Display a hardcoded Roll Number in the Navbar</li>
+<li><h3>2. Add routing for temperature conversion page:</h3>
+
+-   **2.1**: Add a route for TemperatureConverter Page in App.jsx
+-   **2.2**: Add link for Temperature converter component in Navbar component
+
+</li>
+<li><h3>3. Changes to Calculator: </h3>
+
+-   **3.1**: Add functionality to the handleClick function. It should append the newly clicked value to the previous value.
+-   **3.2**: Add functionality to the Evaluate function to compute the result.
+-   **3.3**: Update the result state automatically whenever the input state changes.
+</li>
+
+<li><h3>4. Changes to Temperature Converter: </h3>
+
+-   **4.1**: Create a select component for outputUnit similar to the inputUnit select component.
+-   **4.2**: Compute the convertedTemp for all the different cases
+-   **4.3**: Add a prop to TempConvertButton component to display the outputUnit
+-   **4.4**: Pass outputUnit as a prop to TempConvertButton
+-   **4.5**: Update the converted temperature automatically whenever inputTemp or inputUnit or outputUnit changes.
+</li>
 </ul>
 </details>
 
@@ -34,8 +55,10 @@ Enhance your understanding of HTML, CSS, and JavaScript by building and styling 
 <details>
 <summary><h2>Expected outputs</h2></summary>
 <p align="center">
-  <img src="./assignment1-output1.png" alt="Image 1" width="45%" />
-  <img src="./assignment1-output2.png" alt="Image 2" width="45%" />
+  <img src="./assignment2-output1.png" alt="Image 1" width="95%" />
+  <img src="./assignment2-output2.png" alt="Image 2" width="95%" />
+  <img src="./assignment2-output3.png" alt="Image 3" width="95%" />
+
 </p>
 </details>
 
