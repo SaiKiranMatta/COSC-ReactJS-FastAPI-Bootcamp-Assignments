@@ -74,11 +74,17 @@ npm run dev
 <summary><h2>Submission Process</h2></summary>
 <br>
 <ul>
-<li><h3>1. Test Your Form:</h3> Ensure that your form is functional and visually appealing. Test the form thoroughly to make sure that all fields are capturing data correctly and that the alert box displays all the information accurately upon submission.</li>
+<li><h3>1. Test Your Application:</h3>
 
-<li><h3>2. Submit Completed Code:</h3> Go to <a href="https://drive.google.com/drive/folders/13ZtaSoDDzGheYV5kjzrZADt5QJ_6bP_w?usp=drive_link">this link</a> and upload your code and output screenshot to the folder named after your roll number.</li>
+Ensure that each feature in your application is implemented correctly and functions as expected. Verify that the Roll Number displays in the Navbar, and that routing to the Temperature Conversion page works seamlessly. Test the Calculator to confirm that values are appended correctly, results are computed accurately, and updates occur automatically. Similarly, validate the Temperature Converter to ensure that unit selections, conversions, and automatic updates are handled correctly. Thoroughly test the entire application to confirm that all tasks are functioning smoothly.</li>
 
-<li><h3>3. Finish The Task:</h3> Fill <a href="https://forms.gle/A6tJ7J1RpBrA7WQA8">this Google Form</a> to finish the task.</li>
+<li><h3>2. Submit Completed Code:</h3>
+
+Go to <a href="https://drive.google.com/drive/folders/13ZtaSoDDzGheYV5kjzrZADt5QJ_6bP_w?usp=drive_link">this link</a> and upload the **src** and output screenshot to the folder named after your roll number.</li>
+
+<li><h3>3. Finish The Task:</h3>
+
+Fill <a href="https://forms.gle/A6tJ7J1RpBrA7WQA8">this Google Form</a> to finish the task.</li>
 
 </ul>
 </details>
