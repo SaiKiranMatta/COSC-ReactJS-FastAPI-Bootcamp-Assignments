@@ -14,7 +14,7 @@
 
 Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
 
--   [Click here](https://github.com/SaiKiranMatta/ReactJS-and-FastAPI-Bootcamp-Assignments.git) to download the zip file of the assignments.
+-   [Click here](https://github.com/SaiKiranMatta/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
 -   Extract the repository once it is downloaded.
 -   Open Visual Studio Code and open the Assignment-2 folder in it.
 
