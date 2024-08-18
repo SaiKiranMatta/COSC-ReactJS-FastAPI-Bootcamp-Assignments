@@ -1,4 +1,4 @@
-# Assignment 2:
+# Assignment 2: React Utility Suite
 
 ## Objectives
 
@@ -21,9 +21,9 @@ In this assignment, you will work on a React-based calculator web application, f
 
 Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
 
-https://github.com/user-attachments/assets/f3e0621c-c149-4a2b-89ed-b57978351ccc
+https://github.com/user-attachments/assets/ba270fd9-c431-4e0f-ad74-0dc119467c75
 
--   [Click here](https://github.com/SaiKiranMatta/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
+-   [Click here](https://github.com/cbitosc/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
 -   Extract the repository once it is downloaded.
 -   Open Visual Studio Code and open the Assignment-2 folder in it.
 
@@ -89,11 +89,11 @@ Ensure that each feature in your application is implemented correctly and functi
 
 <li><h3>2. Submit Completed Code:</h3>
 
-Go to <a href="https://drive.google.com/drive/folders/13ZtaSoDDzGheYV5kjzrZADt5QJ_6bP_w?usp=drive_link">this link</a> and upload the **src** and output screenshot to the folder named after your roll number.</li>
+Go to <a href="https://drive.google.com/drive/folders/1Rls1-f5SSUDwPwgQlPy0maW_NrEFucpJ">this link</a> and upload your **src** folder and output screenshots to the folder named after your roll number.</li>
 
 <li><h3>3. Finish The Task:</h3>
 
-Fill <a href="https://forms.gle/A6tJ7J1RpBrA7WQA8">this Google Form</a> to finish the task.</li>
+Fill <a href="https://forms.gle/SHS2XcjCNtVQ72Sz7">this Google Form</a> to finish the task.</li>
 
 </ul>
 </details>
