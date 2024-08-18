@@ -9,22 +9,29 @@
 <br>
 
 <ul>
-<li><h3>Repository Setup:</h3>
+<li>
+<h3>Repository Setup:</h3>
 
--   Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
--   Once the repository is downloaded or cloned, execute the following command to install the dependencies:
+Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
+
+-   [Click here](https://github.com/cbitosc/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
+-   Extract the repository once it is downloaded.
+-   Open Visual Studio Code and open the Assignment-2 folder in it.
+
+Once your folder is open in VS Code, open a new terminal and make sure you are in the Assignment-2 directory. Then, execute the following command to install the dependencies:
 
 ```
 npm install
 ```
 
--   Subsequently, start the development server using the command:
+Subsequently, start the development server using the command:
 
 ```
 npm run dev
 ```
 
 </li>
+
 <li><h3>1. Add Roll Number:</h3> Display a hardcoded Roll Number in the Navbar</li>
 <li><h3>2. Add routing for temperature conversion page:</h3>
 
@@ -55,10 +62,8 @@ npm run dev
 <details>
 <summary><h2>Expected outputs</h2></summary>
 <p align="center">
-  <img src="./assignment2-output1.png" alt="Image 1" width="95%" />
-  <img src="./assignment2-output2.png" alt="Image 2" width="95%" />
-  <img src="./assignment2-output3.png" alt="Image 3" width="95%" />
-
+  <img src="./assignment1-output1.png" alt="Image 1" width="45%" />
+  <img src="./assignment1-output2.png" alt="Image 2" width="45%" />
 </p>
 </details>
 
