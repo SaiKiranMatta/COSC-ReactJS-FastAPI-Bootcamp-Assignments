@@ -62,8 +62,9 @@ npm run dev
 <details>
 <summary><h2>Expected outputs</h2></summary>
 <p align="center">
-  <img src="./assignment1-output1.png" alt="Image 1" width="45%" />
-  <img src="./assignment1-output2.png" alt="Image 2" width="45%" />
+  <img src="./assignment2-output1.png" alt="Image 1" width="95%" />
+  <img src="./assignment2-output2.png" alt="Image 2" width="95%" />
+  <img src="./assignment2-output3.png" alt="Image 3" width="95%" />
 </p>
 </details>
 
