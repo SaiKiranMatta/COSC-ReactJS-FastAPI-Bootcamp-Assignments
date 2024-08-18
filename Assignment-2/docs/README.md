@@ -21,7 +21,7 @@ In this assignment, you will work on a React-based calculator web application, f
 
 Download or clone the repository and work on the assigned tasks. Ensure that all modifications are made within the provided files.
 
-[Follow this video to set up your project](./SetupVideo.mp4)
+https://github.com/user-attachments/assets/f3e0621c-c149-4a2b-89ed-b57978351ccc
 
 -   [Click here](https://github.com/SaiKiranMatta/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
 -   Extract the repository once it is downloaded.
