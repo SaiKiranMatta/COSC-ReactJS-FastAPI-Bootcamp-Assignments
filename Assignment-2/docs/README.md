@@ -45,7 +45,7 @@ npm run dev
 <li><h3>2. Add routing for temperature conversion page:</h3>
 
 -   **2.1**: Add a route for TemperatureConverter Page in App.jsx
--   **2.2**: Add link for Temperature converter component in Navbar component
+-   **2.2**: Add a link for Temperature converter component in Navbar component
 
 </li>
 <li><h3>3. Changes to Calculator: </h3>
