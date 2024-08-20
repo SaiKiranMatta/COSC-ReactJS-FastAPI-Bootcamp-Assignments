@@ -1,4 +1,4 @@
-# Assignment 2: COSC Merchandise Store
+# Assignment 3: COSC Merchandise Store
 
 ## Objectives
 
