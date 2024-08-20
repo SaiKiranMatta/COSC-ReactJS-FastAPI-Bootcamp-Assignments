@@ -25,9 +25,9 @@ https://github.com/user-attachments/assets/ba270fd9-c431-4e0f-ad74-0dc119467c75
 
 -   [Click here](https://github.com/cbitosc/ReactJS-and-FastAPI-Bootcamp-Assignments/archive/refs/heads/main.zip) to download the zip file of the assignments.
 -   Extract the repository once it is downloaded.
--   Open Visual Studio Code and open the Assignment-2 folder in it.
+-   Open Visual Studio Code and open the Assignment-3 folder in it.
 
-Once your folder is open in VS Code, open a new terminal and make sure you are in the Assignment-2 directory. Then, execute the following command to install the dependencies:
+Once your folder is open in VS Code, open a new terminal and make sure you are in the Assignment-3 directory. Then, execute the following command to install the dependencies:
 
 ```
 npm install
@@ -41,27 +41,23 @@ npm run dev
 
 </li>
 
-<li><h3>1. Add Roll Number:</h3> Display a hardcoded Roll Number in the Navbar</li>
-<li><h3>2. Add routing for temperature conversion page:</h3>
+<li><h3>1. Display Roll Number:</h3> Add a hardcoded roll number to the **Navbar.js** component and ensure it is displayed prominently.</li>
+<li><h3>2. Implement Read Functionality:</h3>
 
--   **2.1**: Add a route for TemperatureConverter Page in App.jsx
--   **2.2**: Add a link for Temperature converter component in Navbar component
+-   **2.1**: Enhance the GET /products/ endpoint in FastAPI to return a list of all products.
+-   **2.2**: Utilize a GET request in React to fetch and display all product data on the Shop page.
 
 </li>
-<li><h3>3. Changes to Calculator: </h3>
+<li><h3>3. Define Pydantic Models for Data Validation:</h3>
 
--   **3.1**: Add functionality to the handleClick function. It should append the newly clicked value to the previous value.
--   **3.2**: Add functionality to the Evaluate function to compute the result.
--   **3.3**: Update the result state automatically whenever the input state changes.
+-   **3.1**: Create a ProductBase model in FastAPI with the fields `title`, `description`, `imageUrl`, and `price`, all as strings.
+-   **3.2**: Use the ProductBase model to define the types for the product parameter in the create and update API endpoints.
 </li>
 
-<li><h3>4. Changes to Temperature Converter: </h3>
+<li><h3>4. Implement Delete Functionality: </h3>
 
--   **4.1**: Create a select component for outputUnit similar to the inputUnit select component.
--   **4.2**: Compute the convertedTemp for all the different cases
--   **4.3**: Add a prop to TempConvertButton component to display the outputUnit
--   **4.4**: Pass outputUnit as a prop to TempConvertButton
--   **4.5**: Update the converted temperature automatically whenever inputTemp or inputUnit or outputUnit changes.
+-   **4.1**: Add the delete operation to the `DELETE /products/{product_id}` endpoint in main.py.
+-   **4.2**: After deleting a product, re-fetch the product list on the frontend to update the display.
 </li>
 </ul>
 </details>
