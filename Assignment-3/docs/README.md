@@ -89,11 +89,11 @@ Ensure that each feature in your application is implemented correctly and functi
 
 <li><h3>2. Submit Completed Code:</h3>
 
-Go to <a href="https://drive.google.com/drive/folders/1Rls1-f5SSUDwPwgQlPy0maW_NrEFucpJ">this link</a> and upload your **src** folder and output screenshots to the folder named after your roll number.</li>
+Go to <a href="https://drive.google.com/drive/folders/1F6lGfqkjZzu5s9hhQpbSH6gM4a5vCiGF?usp=drive_link">this link</a> and upload your **src** folder, **main.py** file and output screenshots to the folder named after your roll number.</li>
 
 <li><h3>3. Finish The Task:</h3>
 
-Fill <a href="https://forms.gle/SHS2XcjCNtVQ72Sz7">this Google Form</a> to finish the task.</li>
+Fill <a href="https://forms.gle/2Fiv3eRcJcxFSw5x6">this Google Form</a> to finish the task.</li>
 
 </ul>
 </details>
