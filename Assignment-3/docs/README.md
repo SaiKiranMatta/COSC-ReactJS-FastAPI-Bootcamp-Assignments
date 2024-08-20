@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/ba270fd9-c431-4e0f-ad74-0dc119467c75
 
 Once your folder is open in VS Code, open a new terminal and make sure you are in the Assignment-3 directory. Then, run frontend and backend in separate terminals:
 
-#### Running frontend
+#### Running the frontend server
 
 -   Open a new terminal and navigate to frontend directory
 
@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-#### Running frontend
+#### Running the backend server
 
 -   Open **another new terminal** and navigate to backend directory
 
