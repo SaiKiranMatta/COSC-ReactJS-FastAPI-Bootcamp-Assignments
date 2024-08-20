@@ -2,14 +2,14 @@
 
 ## Objectives
 
--   **Enhance your understanding of JavaScript and React** through debugging and altering a project to ensure expected functionality.
--   Gain experience **managing routes** and extending component functionality.
--   Apply core React concepts, such as **state management** to create an interactive and user-friendly web application all while getting practical experience.
--   Strengthen your ability to **implement and improve component logic**, focusing on practical applications of **React hooks** and JavaScript functionalities.
+-   Implement **Data Fetching** in React by successfully perform GET requests to retrieve and display data on the frontend using React.js.
+-   Enforce **Data Validation** with FastAPI through defining and applying Pydantic models in FastAPI.
+-   Gain a holistic understanding of **CRUD Functionality** in FastAPI and implement the DELETE and READ endpoints in FastAPI to allow for proper data management through the backend.
+-   Enhance **Frontend UI** by displaying important user information.
 
 ## Overview
 
-In this assignment, you will work on a React-based utility suite web application, focusing on component routing, state management using hooks, and adding expected functionality to existing boilerplate. Your task is to make the calculator functional, implement routing to the temperature converter, and then improve their functionality. You will set up navigation between different pages and manage state effectively using React hooks. This project will deepen your understanding of React, particularly in the areas of hooks and routing, which are essential for building dynamic and interactive web applications.
+In this assignment, you will enhance a partially built web application by adding essential functionalities to both the frontend (React.js) and backend (FastAPI). Your tasks include implementing key features like data fetching, CRUD operations, and data validation, which are currently missing or incomplete. These enhancements will bring the application to a fully functional state, allowing seamless interaction between the user interface and the backend, and ensuring data integrity and a better user experience.
 
 <details open>
 <summary><h2>Tasks</h2></summary>
