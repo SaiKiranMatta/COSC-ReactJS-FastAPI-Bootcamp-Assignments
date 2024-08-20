@@ -44,7 +44,7 @@ npm run dev
 <li><h3>1. Display Roll Number:</h3> Add a hardcoded roll number to the **Navbar.js** component and ensure it is displayed prominently.</li>
 <li><h3>2. Implement Read Functionality:</h3>
 
--   **2.1**: Enhance the GET /products/ endpoint in FastAPI to return a list of all products.
+-   **2.1**: Add functionality to the the GET /products/ endpoint in FastAPI to return a list of all products.
 -   **2.2**: Utilize a GET request in React to fetch and display all product data on the Shop page.
 
 </li>
